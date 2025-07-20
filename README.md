@@ -1,1 +1,1 @@
-# -documenting-a-technical-process-lab
+# documenting-a-technical-process-lab
